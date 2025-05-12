@@ -6,3 +6,19 @@ graphql-learn-d1/server/.env
 graphql-learn-d1/server/package-lock.json
 
 .DS_Store
+
+graphql-learn-d2/server/node_modules/
+graphql-learn-d2/server/dist/
+graphql-learn-d2/server/.env
+graphql-learn-d2/server/package-lock.json
+
+graphql-learn-d2/client/todo-react-d1/node_modules/
+graphql-learn-d2/client/todo-react-d1/dist/
+graphql-learn-d2/client/todo-react-d1/.env
+graphql-learn-d2/client/todo-react-d1/package-lock.json
+
+thread-app-d1/server/node_modules/
+thread-app-d1/server/build/
+thread-app-d1/server/package-lock.json
+thread-app-d1/server/.env
+
