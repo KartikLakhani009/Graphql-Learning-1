@@ -21,4 +21,5 @@ thread-app-d1/server/node_modules/
 thread-app-d1/server/build/
 thread-app-d1/server/package-lock.json
 thread-app-d1/server/.env
-
+thread-app-d1/server/generated/
+thread-app-d1/server/prisma/migrations/
