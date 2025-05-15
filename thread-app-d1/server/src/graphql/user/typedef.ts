@@ -3,6 +3,7 @@ export const typeDefs = `
         id: ID!
         email: String!
         firstName: String!
-        lastName: String!
+        lastName: String
+        profileImageURL: String
     }
 `
